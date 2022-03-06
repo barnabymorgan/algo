@@ -6,5 +6,4 @@ For example, given the following matrix:
  [1, 0, 1, 1],
  [1, 0, 1, 1],
  [0, 1, 0, 0]]
-
 Return 4.
